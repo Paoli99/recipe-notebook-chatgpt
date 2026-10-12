@@ -1,0 +1,2433 @@
+[
+ {
+  "id": "chicken-breast-raw",
+  "name": "Chicken breast, skinless, raw",
+  "category": "poultry",
+  "state": "raw",
+  "kcal100g": 120.0,
+  "protein100g": 22.5,
+  "carbs100g": 0.0,
+  "fat100g": 2.62,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171077,
+   "description": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  }
+ },
+ {
+  "id": "chicken-breast-roasted",
+  "name": "Chicken breast, skinless, roasted",
+  "category": "poultry",
+  "state": "cooked",
+  "kcal100g": 165.0,
+  "protein100g": 31.02,
+  "carbs100g": 0.0,
+  "fat100g": 3.57,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171477,
+   "description": "Chicken, broilers or fryers, breast, meat only, cooked, roasted"
+  }
+ },
+ {
+  "id": "chicken-thigh-raw",
+  "name": "Chicken thigh, skinless, raw",
+  "category": "poultry",
+  "state": "raw",
+  "kcal100g": 121.0,
+  "protein100g": 19.66,
+  "carbs100g": 0.0,
+  "fat100g": 4.12,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173627,
+   "description": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw"
+  }
+ },
+ {
+  "id": "turkey-ground-raw",
+  "name": "Ground turkey, raw",
+  "category": "poultry",
+  "state": "raw",
+  "kcal100g": 148.0,
+  "protein100g": 19.66,
+  "carbs100g": 0.0,
+  "fat100g": 7.66,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171505,
+   "description": "Turkey, Ground, raw"
+  }
+ },
+ {
+  "id": "beef-ground-85-raw",
+  "name": "Ground beef 85% lean, raw",
+  "category": "meat",
+  "state": "raw",
+  "kcal100g": 215.0,
+  "protein100g": 18.59,
+  "carbs100g": 0.0,
+  "fat100g": 15.0,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171796,
+   "description": "Beef, ground, 85% lean meat / 15% fat, raw (Includes foods for USDA's Food Distribution Program)"
+  }
+ },
+ {
+  "id": "beef-ground-85-cooked",
+  "name": "Ground beef 85% lean, broiled",
+  "category": "meat",
+  "state": "cooked",
+  "kcal100g": 250.0,
+  "protein100g": 25.93,
+  "carbs100g": 0.0,
+  "fat100g": 15.41,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 174032,
+   "description": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled"
+  }
+ },
+ {
+  "id": "beef-sirloin-raw",
+  "name": "Beef top sirloin steak, raw",
+  "category": "meat",
+  "state": "raw",
+  "kcal100g": 201.0,
+  "protein100g": 20.3,
+  "carbs100g": 0.0,
+  "fat100g": 12.71,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168726,
+   "description": "Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+  }
+ },
+ {
+  "id": "pork-tenderloin-raw",
+  "name": "Pork tenderloin, lean, raw",
+  "category": "meat",
+  "state": "raw",
+  "kcal100g": 109.0,
+  "protein100g": 20.95,
+  "carbs100g": 0.0,
+  "fat100g": 2.17,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168249,
+   "description": "Pork, fresh, loin, tenderloin, separable lean only, raw"
+  }
+ },
+ {
+  "id": "bacon-raw",
+  "name": "Bacon, raw",
+  "category": "meat",
+  "state": "raw",
+  "kcal100g": 393.0,
+  "protein100g": 13.66,
+  "carbs100g": 0.0,
+  "fat100g": 37.13,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168277,
+   "description": "Pork, cured, bacon, unprepared"
+  }
+ },
+ {
+  "id": "ham-deli",
+  "name": "Ham, sliced deli (about 11% fat)",
+  "category": "meat",
+  "state": null,
+  "kcal100g": 164.0,
+  "protein100g": 16.6,
+  "carbs100g": 3.63,
+  "fat100g": 8.8,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173864,
+   "description": "Ham, sliced, regular (approximately 11% fat)"
+  }
+ },
+ {
+  "id": "shrimp-raw",
+  "name": "Shrimp, raw",
+  "category": "seafood",
+  "state": "raw",
+  "kcal100g": 85.0,
+  "protein100g": 20.1,
+  "carbs100g": 0.0,
+  "fat100g": 0.51,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 175179,
+   "description": "Crustaceans, shrimp, raw"
+  }
+ },
+ {
+  "id": "shrimp-cooked",
+  "name": "Shrimp, cooked",
+  "category": "seafood",
+  "state": "cooked",
+  "kcal100g": 99.0,
+  "protein100g": 23.98,
+  "carbs100g": 0.2,
+  "fat100g": 0.28,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 175180,
+   "description": "Crustaceans, shrimp, cooked"
+  }
+ },
+ {
+  "id": "salmon-raw",
+  "name": "Atlantic salmon, farmed, raw",
+  "category": "seafood",
+  "state": "raw",
+  "kcal100g": 208.0,
+  "protein100g": 20.42,
+  "carbs100g": 0.0,
+  "fat100g": 13.42,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 175167,
+   "description": "Fish, salmon, Atlantic, farmed, raw"
+  }
+ },
+ {
+  "id": "salmon-cooked",
+  "name": "Atlantic salmon, farmed, cooked",
+  "category": "seafood",
+  "state": "cooked",
+  "kcal100g": 206.0,
+  "protein100g": 22.1,
+  "carbs100g": 0.0,
+  "fat100g": 12.35,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 175168,
+   "description": "Fish, salmon, Atlantic, farmed, cooked, dry heat"
+  }
+ },
+ {
+  "id": "cod-raw",
+  "name": "Atlantic cod, raw",
+  "category": "seafood",
+  "state": "raw",
+  "kcal100g": 82.0,
+  "protein100g": 17.81,
+  "carbs100g": 0.0,
+  "fat100g": 0.67,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171955,
+   "description": "Fish, cod, Atlantic, raw"
+  }
+ },
+ {
+  "id": "tuna-canned-water",
+  "name": "Tuna, light, canned in water, drained",
+  "category": "seafood",
+  "state": "canned",
+  "kcal100g": 116.0,
+  "protein100g": 25.51,
+  "carbs100g": 0.0,
+  "fat100g": 0.82,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171986,
+   "description": "Fish, tuna, light, canned in water, without salt, drained solids"
+  }
+ },
+ {
+  "id": "egg-whole-raw",
+  "name": "Egg, whole, raw",
+  "category": "egg",
+  "state": "raw",
+  "kcal100g": 143.0,
+  "protein100g": 12.56,
+  "carbs100g": 0.72,
+  "fat100g": 9.51,
+  "gramsPerUnit": 50.0,
+  "unitName": "egg",
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171287,
+   "description": "Egg, whole, raw, fresh"
+  }
+ },
+ {
+  "id": "egg-whole-hard-boiled",
+  "name": "Egg, hard-boiled",
+  "category": "egg",
+  "state": "cooked",
+  "kcal100g": 155.0,
+  "protein100g": 12.58,
+  "carbs100g": 1.12,
+  "fat100g": 10.61,
+  "gramsPerUnit": 50.0,
+  "unitName": "egg",
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173424,
+   "description": "Egg, whole, cooked, hard-boiled"
+  }
+ },
+ {
+  "id": "egg-white-raw",
+  "name": "Egg white, raw",
+  "category": "egg",
+  "state": "raw",
+  "kcal100g": 52.0,
+  "protein100g": 10.9,
+  "carbs100g": 0.73,
+  "fat100g": 0.17,
+  "gramsPerUnit": 33.0,
+  "unitName": "egg white",
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 172183,
+   "description": "Egg, white, raw, fresh"
+  }
+ },
+ {
+  "id": "tofu-firm",
+  "name": "Tofu, firm",
+  "category": "plant-protein",
+  "state": null,
+  "kcal100g": 144.0,
+  "protein100g": 17.27,
+  "carbs100g": 2.78,
+  "fat100g": 8.72,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 172475,
+   "description": "Tofu, raw, firm, prepared with calcium sulfate"
+  }
+ },
+ {
+  "id": "tempeh",
+  "name": "Tempeh",
+  "category": "plant-protein",
+  "state": null,
+  "kcal100g": 192.0,
+  "protein100g": 20.29,
+  "carbs100g": 7.64,
+  "fat100g": 10.8,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 174272,
+   "description": "Tempeh"
+  }
+ },
+ {
+  "id": "lentils-dry",
+  "name": "Lentils, dry",
+  "category": "legume",
+  "state": "dry",
+  "kcal100g": 352.0,
+  "protein100g": 24.63,
+  "carbs100g": 63.35,
+  "fat100g": 1.06,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 172420,
+   "description": "Lentils, raw"
+  }
+ },
+ {
+  "id": "lentils-cooked",
+  "name": "Lentils, boiled",
+  "category": "legume",
+  "state": "cooked",
+  "kcal100g": 116.0,
+  "protein100g": 9.02,
+  "carbs100g": 20.13,
+  "fat100g": 0.38,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 172421,
+   "description": "Lentils, mature seeds, cooked, boiled, without salt"
+  }
+ },
+ {
+  "id": "chickpeas-dry",
+  "name": "Chickpeas, dry",
+  "category": "legume",
+  "state": "dry",
+  "kcal100g": 378.0,
+  "protein100g": 20.47,
+  "carbs100g": 62.95,
+  "fat100g": 6.04,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173756,
+   "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw"
+  }
+ },
+ {
+  "id": "chickpeas-cooked",
+  "name": "Chickpeas, boiled",
+  "category": "legume",
+  "state": "cooked",
+  "kcal100g": 164.0,
+  "protein100g": 8.86,
+  "carbs100g": 27.42,
+  "fat100g": 2.59,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173757,
+   "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt"
+  }
+ },
+ {
+  "id": "chickpeas-canned",
+  "name": "Chickpeas, canned, drained",
+  "category": "legume",
+  "state": "canned",
+  "kcal100g": 139.0,
+  "protein100g": 7.05,
+  "carbs100g": 22.53,
+  "fat100g": 2.77,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173800,
+   "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids"
+  }
+ },
+ {
+  "id": "black-beans-cooked",
+  "name": "Black beans, boiled",
+  "category": "legume",
+  "state": "cooked",
+  "kcal100g": 132.0,
+  "protein100g": 8.86,
+  "carbs100g": 23.71,
+  "fat100g": 0.54,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173735,
+   "description": "Beans, black, mature seeds, cooked, boiled, without salt"
+  }
+ },
+ {
+  "id": "hummus",
+  "name": "Hummus",
+  "category": "legume",
+  "state": null,
+  "kcal100g": 237.0,
+  "protein100g": 7.78,
+  "carbs100g": 15.0,
+  "fat100g": 17.82,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 174289,
+   "description": "Hummus, commercial"
+  }
+ },
+ {
+  "id": "milk-whole",
+  "name": "Milk, whole 3.25%",
+  "category": "dairy",
+  "state": null,
+  "kcal100g": 61.0,
+  "protein100g": 3.15,
+  "carbs100g": 4.8,
+  "fat100g": 3.25,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171265,
+   "description": "Milk, whole, 3.25% milkfat, with added vitamin D"
+  }
+ },
+ {
+  "id": "milk-skim",
+  "name": "Milk, skim",
+  "category": "dairy",
+  "state": null,
+  "kcal100g": 34.0,
+  "protein100g": 3.37,
+  "carbs100g": 4.96,
+  "fat100g": 0.08,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171269,
+   "description": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  }
+ },
+ {
+  "id": "greek-yogurt-nonfat",
+  "name": "Greek yogurt, plain, nonfat",
+  "category": "dairy",
+  "state": null,
+  "kcal100g": 59.0,
+  "protein100g": 10.19,
+  "carbs100g": 3.6,
+  "fat100g": 0.39,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170894,
+   "description": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  }
+ },
+ {
+  "id": "greek-yogurt-whole",
+  "name": "Greek yogurt, plain, whole milk",
+  "category": "dairy",
+  "state": null,
+  "kcal100g": 97.0,
+  "protein100g": 9.0,
+  "carbs100g": 3.98,
+  "fat100g": 5.0,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171304,
+   "description": "Yogurt, Greek, plain, whole milk"
+  }
+ },
+ {
+  "id": "heavy-cream",
+  "name": "Heavy whipping cream",
+  "category": "dairy",
+  "state": null,
+  "kcal100g": 340.0,
+  "protein100g": 2.84,
+  "carbs100g": 2.84,
+  "fat100g": 36.08,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170859,
+   "description": "Cream, fluid, heavy whipping"
+  }
+ },
+ {
+  "id": "sour-cream",
+  "name": "Sour cream",
+  "category": "dairy",
+  "state": null,
+  "kcal100g": 198.0,
+  "protein100g": 2.44,
+  "carbs100g": 4.63,
+  "fat100g": 19.35,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171257,
+   "description": "Cream, sour, cultured"
+  }
+ },
+ {
+  "id": "butter-unsalted",
+  "name": "Butter, unsalted",
+  "category": "dairy",
+  "state": null,
+  "kcal100g": 717.0,
+  "protein100g": 0.85,
+  "carbs100g": 0.06,
+  "fat100g": 81.11,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173430,
+   "description": "Butter, without salt"
+  }
+ },
+ {
+  "id": "cheddar",
+  "name": "Cheddar cheese",
+  "category": "cheese",
+  "state": null,
+  "kcal100g": 403.0,
+  "protein100g": 22.87,
+  "carbs100g": 3.37,
+  "fat100g": 33.31,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173414,
+   "description": "Cheese, cheddar (Includes foods for USDA's Food Distribution Program)"
+  }
+ },
+ {
+  "id": "mozzarella-part-skim",
+  "name": "Mozzarella, low-moisture part-skim",
+  "category": "cheese",
+  "state": null,
+  "kcal100g": 295.0,
+  "protein100g": 23.75,
+  "carbs100g": 5.58,
+  "fat100g": 19.78,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171244,
+   "description": "Cheese, mozzarella, low moisture, part-skim"
+  }
+ },
+ {
+  "id": "parmesan-grated",
+  "name": "Parmesan, grated",
+  "category": "cheese",
+  "state": null,
+  "kcal100g": 420.0,
+  "protein100g": 28.42,
+  "carbs100g": 13.91,
+  "fat100g": 27.84,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171247,
+   "description": "Cheese, parmesan, grated"
+  }
+ },
+ {
+  "id": "feta",
+  "name": "Feta cheese",
+  "category": "cheese",
+  "state": null,
+  "kcal100g": 265.0,
+  "protein100g": 14.21,
+  "carbs100g": 3.88,
+  "fat100g": 21.49,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173420,
+   "description": "Cheese, feta"
+  }
+ },
+ {
+  "id": "cream-cheese",
+  "name": "Cream cheese",
+  "category": "cheese",
+  "state": null,
+  "kcal100g": 350.0,
+  "protein100g": 6.15,
+  "carbs100g": 5.52,
+  "fat100g": 34.44,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173418,
+   "description": "Cheese, cream"
+  }
+ },
+ {
+  "id": "cottage-cheese-2",
+  "name": "Cottage cheese 2%",
+  "category": "cheese",
+  "state": null,
+  "kcal100g": 81.0,
+  "protein100g": 10.45,
+  "carbs100g": 4.76,
+  "fat100g": 2.27,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 172182,
+   "description": "Cheese, cottage, lowfat, 2% milkfat"
+  }
+ },
+ {
+  "id": "ricotta-whole",
+  "name": "Ricotta, whole milk",
+  "category": "cheese",
+  "state": null,
+  "kcal100g": 150.0,
+  "protein100g": 7.54,
+  "carbs100g": 7.27,
+  "fat100g": 10.18,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170851,
+   "description": "Cheese, ricotta, whole milk"
+  }
+ },
+ {
+  "id": "rice-white-dry",
+  "name": "White rice, long-grain, dry",
+  "category": "grain",
+  "state": "dry",
+  "kcal100g": 365.0,
+  "protein100g": 7.13,
+  "carbs100g": 79.95,
+  "fat100g": 0.66,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168877,
+   "description": "Rice, white, long-grain, regular, raw, enriched"
+  }
+ },
+ {
+  "id": "rice-white-cooked",
+  "name": "White rice, long-grain, cooked",
+  "category": "grain",
+  "state": "cooked",
+  "kcal100g": 130.0,
+  "protein100g": 2.69,
+  "carbs100g": 28.17,
+  "fat100g": 0.28,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168878,
+   "description": "Rice, white, long-grain, regular, enriched, cooked"
+  }
+ },
+ {
+  "id": "rice-brown-cooked",
+  "name": "Brown rice, long-grain, cooked",
+  "category": "grain",
+  "state": "cooked",
+  "kcal100g": 123.0,
+  "protein100g": 2.74,
+  "carbs100g": 25.58,
+  "fat100g": 0.97,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169704,
+   "description": "Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)"
+  }
+ },
+ {
+  "id": "quinoa-dry",
+  "name": "Quinoa, dry",
+  "category": "grain",
+  "state": "dry",
+  "kcal100g": 368.0,
+  "protein100g": 14.12,
+  "carbs100g": 64.16,
+  "fat100g": 6.07,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168874,
+   "description": "Quinoa, uncooked"
+  }
+ },
+ {
+  "id": "quinoa-cooked",
+  "name": "Quinoa, cooked",
+  "category": "grain",
+  "state": "cooked",
+  "kcal100g": 120.0,
+  "protein100g": 4.4,
+  "carbs100g": 21.3,
+  "fat100g": 1.92,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168917,
+   "description": "Quinoa, cooked"
+  }
+ },
+ {
+  "id": "couscous-dry",
+  "name": "Couscous, dry",
+  "category": "grain",
+  "state": "dry",
+  "kcal100g": 376.0,
+  "protein100g": 12.76,
+  "carbs100g": 77.43,
+  "fat100g": 0.64,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169699,
+   "description": "Couscous, dry"
+  }
+ },
+ {
+  "id": "oats-rolled-dry",
+  "name": "Rolled oats, dry",
+  "category": "grain",
+  "state": "dry",
+  "kcal100g": 379.0,
+  "protein100g": 13.15,
+  "carbs100g": 67.7,
+  "fat100g": 6.52,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173904,
+   "description": "Cereals, oats, regular and quick, not fortified, dry"
+  }
+ },
+ {
+  "id": "pasta-dry",
+  "name": "Pasta, dry",
+  "category": "pasta",
+  "state": "dry",
+  "kcal100g": 371.0,
+  "protein100g": 13.04,
+  "carbs100g": 74.67,
+  "fat100g": 1.51,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169736,
+   "description": "Pasta, dry, enriched"
+  }
+ },
+ {
+  "id": "pasta-cooked",
+  "name": "Pasta, cooked",
+  "category": "pasta",
+  "state": "cooked",
+  "kcal100g": 158.0,
+  "protein100g": 5.8,
+  "carbs100g": 30.86,
+  "fat100g": 0.93,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169737,
+   "description": "Pasta, cooked, enriched, without added salt"
+  }
+ },
+ {
+  "id": "rice-noodles-dry",
+  "name": "Rice noodles, dry",
+  "category": "pasta",
+  "state": "dry",
+  "kcal100g": 364.0,
+  "protein100g": 5.95,
+  "carbs100g": 80.18,
+  "fat100g": 0.56,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169742,
+   "description": "Rice noodles, dry"
+  }
+ },
+ {
+  "id": "bread-white",
+  "name": "White bread",
+  "category": "bread",
+  "state": null,
+  "kcal100g": 266.0,
+  "protein100g": 8.85,
+  "carbs100g": 49.42,
+  "fat100g": 3.33,
+  "gramsPerUnit": 29.0,
+  "unitName": "slice",
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 174924,
+   "description": "Bread, white, commercially prepared (includes soft bread crumbs)"
+  }
+ },
+ {
+  "id": "tortilla-flour",
+  "name": "Flour tortilla",
+  "category": "bread",
+  "state": null,
+  "kcal100g": 306.0,
+  "protein100g": 8.2,
+  "carbs100g": 49.38,
+  "fat100g": 7.99,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 175037,
+   "description": "Tortillas, ready-to-bake or -fry, flour, refrigerated"
+  }
+ },
+ {
+  "id": "tortilla-corn",
+  "name": "Corn tortilla",
+  "category": "bread",
+  "state": null,
+  "kcal100g": 218.0,
+  "protein100g": 5.7,
+  "carbs100g": 44.64,
+  "fat100g": 2.85,
+  "gramsPerUnit": 24.0,
+  "unitName": "tortilla",
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 175036,
+   "description": "Tortillas, ready-to-bake or -fry, corn"
+  }
+ },
+ {
+  "id": "bread-crumbs",
+  "name": "Bread crumbs, dry",
+  "category": "bread",
+  "state": null,
+  "kcal100g": 395.0,
+  "protein100g": 13.35,
+  "carbs100g": 71.98,
+  "fat100g": 5.3,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 174928,
+   "description": "Bread, crumbs, dry, grated, plain"
+  }
+ },
+ {
+  "id": "potato-raw",
+  "name": "Potato, with skin, raw",
+  "category": "starchy-vegetable",
+  "state": "raw",
+  "kcal100g": 77.0,
+  "protein100g": 2.05,
+  "carbs100g": 17.49,
+  "fat100g": 0.09,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170026,
+   "description": "Potatoes, flesh and skin, raw"
+  }
+ },
+ {
+  "id": "potato-boiled",
+  "name": "Potato, boiled, peeled",
+  "category": "starchy-vegetable",
+  "state": "cooked",
+  "kcal100g": 86.0,
+  "protein100g": 1.71,
+  "carbs100g": 20.01,
+  "fat100g": 0.1,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170440,
+   "description": "Potatoes, boiled, cooked without skin, flesh, without salt"
+  }
+ },
+ {
+  "id": "sweet-potato-raw",
+  "name": "Sweet potato, raw",
+  "category": "starchy-vegetable",
+  "state": "raw",
+  "kcal100g": 86.0,
+  "protein100g": 1.57,
+  "carbs100g": 20.12,
+  "fat100g": 0.05,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168482,
+   "description": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)"
+  }
+ },
+ {
+  "id": "corn-kernels-canned",
+  "name": "Sweet corn, canned, drained",
+  "category": "starchy-vegetable",
+  "state": "canned",
+  "kcal100g": 67.0,
+  "protein100g": 2.29,
+  "carbs100g": 14.34,
+  "fat100g": 1.22,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169214,
+   "description": "Corn, sweet, yellow, canned, whole kernel, drained solids"
+  }
+ },
+ {
+  "id": "peas-frozen",
+  "name": "Green peas, frozen",
+  "category": "starchy-vegetable",
+  "state": null,
+  "kcal100g": 77.0,
+  "protein100g": 5.22,
+  "carbs100g": 13.62,
+  "fat100g": 0.4,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170016,
+   "description": "Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)"
+  }
+ },
+ {
+  "id": "onion",
+  "name": "Onion, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 40.0,
+  "protein100g": 1.1,
+  "carbs100g": 9.34,
+  "fat100g": 0.1,
+  "gramsPerUnit": 110.0,
+  "unitName": "onion",
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170000,
+   "description": "Onions, raw"
+  }
+ },
+ {
+  "id": "garlic",
+  "name": "Garlic, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 149.0,
+  "protein100g": 6.36,
+  "carbs100g": 33.06,
+  "fat100g": 0.5,
+  "gramsPerUnit": 3.0,
+  "unitName": "clove",
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169230,
+   "description": "Garlic, raw"
+  }
+ },
+ {
+  "id": "scallion",
+  "name": "Scallions, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 32.0,
+  "protein100g": 1.83,
+  "carbs100g": 7.34,
+  "fat100g": 0.19,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170005,
+   "description": "Onions, spring or scallions (includes tops and bulb), raw"
+  }
+ },
+ {
+  "id": "tomato",
+  "name": "Tomato, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 18.0,
+  "protein100g": 0.88,
+  "carbs100g": 3.89,
+  "fat100g": 0.2,
+  "gramsPerUnit": 123.0,
+  "unitName": "tomato",
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170457,
+   "description": "Tomatoes, red, ripe, raw, year round average"
+  }
+ },
+ {
+  "id": "tomatoes-canned",
+  "name": "Tomatoes, canned in juice",
+  "category": "vegetable",
+  "state": "canned",
+  "kcal100g": 16.0,
+  "protein100g": 0.79,
+  "carbs100g": 3.47,
+  "fat100g": 0.25,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170051,
+   "description": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  }
+ },
+ {
+  "id": "tomato-paste",
+  "name": "Tomato paste",
+  "category": "vegetable",
+  "state": "canned",
+  "kcal100g": 82.0,
+  "protein100g": 4.32,
+  "carbs100g": 18.91,
+  "fat100g": 0.47,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170459,
+   "description": "Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)"
+  }
+ },
+ {
+  "id": "tomato-sauce",
+  "name": "Tomato sauce, canned",
+  "category": "vegetable",
+  "state": "canned",
+  "kcal100g": 24.0,
+  "protein100g": 1.2,
+  "carbs100g": 5.31,
+  "fat100g": 0.3,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170054,
+   "description": "Tomato products, canned, sauce"
+  }
+ },
+ {
+  "id": "carrot",
+  "name": "Carrot, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 41.0,
+  "protein100g": 0.93,
+  "carbs100g": 9.58,
+  "fat100g": 0.24,
+  "gramsPerUnit": 61.0,
+  "unitName": "carrot",
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170393,
+   "description": "Carrots, raw"
+  }
+ },
+ {
+  "id": "broccoli-raw",
+  "name": "Broccoli, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 34.0,
+  "protein100g": 2.82,
+  "carbs100g": 6.64,
+  "fat100g": 0.37,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170379,
+   "description": "Broccoli, raw"
+  }
+ },
+ {
+  "id": "spinach-raw",
+  "name": "Spinach, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 23.0,
+  "protein100g": 2.86,
+  "carbs100g": 3.63,
+  "fat100g": 0.39,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168462,
+   "description": "Spinach, raw"
+  }
+ },
+ {
+  "id": "red-bell-pepper",
+  "name": "Red bell pepper, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 26.0,
+  "protein100g": 0.99,
+  "carbs100g": 6.03,
+  "fat100g": 0.3,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170108,
+   "description": "Peppers, sweet, red, raw"
+  }
+ },
+ {
+  "id": "jalapeno",
+  "name": "Jalapeño, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 29.0,
+  "protein100g": 0.91,
+  "carbs100g": 6.5,
+  "fat100g": 0.37,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168576,
+   "description": "Peppers, jalapeno, raw"
+  }
+ },
+ {
+  "id": "mushrooms-white",
+  "name": "White mushrooms, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 22.0,
+  "protein100g": 3.09,
+  "carbs100g": 3.26,
+  "fat100g": 0.34,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169251,
+   "description": "Mushrooms, white, raw"
+  }
+ },
+ {
+  "id": "zucchini",
+  "name": "Zucchini, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 17.0,
+  "protein100g": 1.21,
+  "carbs100g": 3.11,
+  "fat100g": 0.32,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169291,
+   "description": "Squash, summer, zucchini, includes skin, raw"
+  }
+ },
+ {
+  "id": "cucumber",
+  "name": "Cucumber, with peel, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 15.0,
+  "protein100g": 0.65,
+  "carbs100g": 3.63,
+  "fat100g": 0.11,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168409,
+   "description": "Cucumber, with peel, raw"
+  }
+ },
+ {
+  "id": "romaine",
+  "name": "Romaine lettuce, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 17.0,
+  "protein100g": 1.23,
+  "carbs100g": 3.29,
+  "fat100g": 0.3,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169247,
+   "description": "Lettuce, cos or romaine, raw"
+  }
+ },
+ {
+  "id": "cauliflower",
+  "name": "Cauliflower, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 25.0,
+  "protein100g": 1.92,
+  "carbs100g": 4.97,
+  "fat100g": 0.28,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169986,
+   "description": "Cauliflower, raw"
+  }
+ },
+ {
+  "id": "celery",
+  "name": "Celery, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 14.0,
+  "protein100g": 0.69,
+  "carbs100g": 2.97,
+  "fat100g": 0.17,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169988,
+   "description": "Celery, raw"
+  }
+ },
+ {
+  "id": "eggplant",
+  "name": "Eggplant, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 25.0,
+  "protein100g": 0.98,
+  "carbs100g": 5.88,
+  "fat100g": 0.18,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169228,
+   "description": "Eggplant, raw"
+  }
+ },
+ {
+  "id": "kale",
+  "name": "Kale, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 35.0,
+  "protein100g": 2.92,
+  "carbs100g": 4.42,
+  "fat100g": 1.49,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168421,
+   "description": "Kale, raw"
+  }
+ },
+ {
+  "id": "asparagus",
+  "name": "Asparagus, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 20.0,
+  "protein100g": 2.2,
+  "carbs100g": 3.88,
+  "fat100g": 0.12,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168389,
+   "description": "Asparagus, raw"
+  }
+ },
+ {
+  "id": "green-beans",
+  "name": "Green beans, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 31.0,
+  "protein100g": 1.83,
+  "carbs100g": 6.97,
+  "fat100g": 0.22,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169961,
+   "description": "Beans, snap, green, raw"
+  }
+ },
+ {
+  "id": "ginger",
+  "name": "Ginger root, raw",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 80.0,
+  "protein100g": 1.82,
+  "carbs100g": 17.77,
+  "fat100g": 0.75,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169231,
+   "description": "Ginger root, raw"
+  }
+ },
+ {
+  "id": "avocado",
+  "name": "Avocado",
+  "category": "vegetable",
+  "state": "raw",
+  "kcal100g": 160.0,
+  "protein100g": 2.0,
+  "carbs100g": 8.53,
+  "fat100g": 14.66,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171705,
+   "description": "Avocados, raw, all commercial varieties"
+  }
+ },
+ {
+  "id": "banana",
+  "name": "Banana",
+  "category": "fruit",
+  "state": "raw",
+  "kcal100g": 89.0,
+  "protein100g": 1.09,
+  "carbs100g": 22.84,
+  "fat100g": 0.33,
+  "gramsPerUnit": 118.0,
+  "unitName": "banana",
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173944,
+   "description": "Bananas, raw"
+  }
+ },
+ {
+  "id": "apple",
+  "name": "Apple, with skin",
+  "category": "fruit",
+  "state": "raw",
+  "kcal100g": 52.0,
+  "protein100g": 0.26,
+  "carbs100g": 13.81,
+  "fat100g": 0.17,
+  "gramsPerUnit": 182.0,
+  "unitName": "apple",
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171688,
+   "description": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)"
+  }
+ },
+ {
+  "id": "strawberries",
+  "name": "Strawberries",
+  "category": "fruit",
+  "state": "raw",
+  "kcal100g": 32.0,
+  "protein100g": 0.67,
+  "carbs100g": 7.68,
+  "fat100g": 0.3,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 167762,
+   "description": "Strawberries, raw"
+  }
+ },
+ {
+  "id": "blueberries",
+  "name": "Blueberries",
+  "category": "fruit",
+  "state": "raw",
+  "kcal100g": 57.0,
+  "protein100g": 0.74,
+  "carbs100g": 14.49,
+  "fat100g": 0.33,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171711,
+   "description": "Blueberries, raw"
+  }
+ },
+ {
+  "id": "mango",
+  "name": "Mango",
+  "category": "fruit",
+  "state": "raw",
+  "kcal100g": 60.0,
+  "protein100g": 0.82,
+  "carbs100g": 14.98,
+  "fat100g": 0.38,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169910,
+   "description": "Mangos, raw"
+  }
+ },
+ {
+  "id": "raisins",
+  "name": "Raisins, dark",
+  "category": "fruit",
+  "state": "dry",
+  "kcal100g": 299.0,
+  "protein100g": 3.3,
+  "carbs100g": 79.32,
+  "fat100g": 0.25,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168165,
+   "description": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)"
+  }
+ },
+ {
+  "id": "lemon-juice",
+  "name": "Lemon juice",
+  "category": "fruit",
+  "state": null,
+  "kcal100g": 22.0,
+  "protein100g": 0.35,
+  "carbs100g": 6.9,
+  "fat100g": 0.24,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 167747,
+   "description": "Lemon juice, raw"
+  }
+ },
+ {
+  "id": "lime-juice",
+  "name": "Lime juice",
+  "category": "fruit",
+  "state": null,
+  "kcal100g": 25.0,
+  "protein100g": 0.42,
+  "carbs100g": 8.42,
+  "fat100g": 0.07,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168156,
+   "description": "Lime juice, raw"
+  }
+ },
+ {
+  "id": "orange-juice",
+  "name": "Orange juice",
+  "category": "fruit",
+  "state": null,
+  "kcal100g": 45.0,
+  "protein100g": 0.7,
+  "carbs100g": 10.4,
+  "fat100g": 0.2,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169098,
+   "description": "Orange juice, raw (Includes foods for USDA's Food Distribution Program)"
+  }
+ },
+ {
+  "id": "almonds",
+  "name": "Almonds",
+  "category": "nut-seed",
+  "state": null,
+  "kcal100g": 579.0,
+  "protein100g": 21.15,
+  "carbs100g": 21.55,
+  "fat100g": 49.93,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170567,
+   "description": "Nuts, almonds"
+  }
+ },
+ {
+  "id": "walnuts",
+  "name": "Walnuts",
+  "category": "nut-seed",
+  "state": null,
+  "kcal100g": 654.0,
+  "protein100g": 15.23,
+  "carbs100g": 13.71,
+  "fat100g": 65.21,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170187,
+   "description": "Nuts, walnuts, english"
+  }
+ },
+ {
+  "id": "cashews",
+  "name": "Cashews, raw",
+  "category": "nut-seed",
+  "state": "raw",
+  "kcal100g": 553.0,
+  "protein100g": 18.22,
+  "carbs100g": 30.19,
+  "fat100g": 43.85,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170162,
+   "description": "Nuts, cashew nuts, raw"
+  }
+ },
+ {
+  "id": "peanuts",
+  "name": "Peanuts, raw",
+  "category": "nut-seed",
+  "state": "raw",
+  "kcal100g": 567.0,
+  "protein100g": 25.8,
+  "carbs100g": 16.13,
+  "fat100g": 49.24,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 172430,
+   "description": "Peanuts, all types, raw"
+  }
+ },
+ {
+  "id": "peanut-butter",
+  "name": "Peanut butter, smooth, unsalted",
+  "category": "nut-seed",
+  "state": null,
+  "kcal100g": 598.0,
+  "protein100g": 22.21,
+  "carbs100g": 22.31,
+  "fat100g": 51.36,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 172470,
+   "description": "Peanut butter, smooth style, without salt"
+  }
+ },
+ {
+  "id": "chia-seeds",
+  "name": "Chia seeds",
+  "category": "nut-seed",
+  "state": "dry",
+  "kcal100g": 486.0,
+  "protein100g": 16.54,
+  "carbs100g": 42.12,
+  "fat100g": 30.74,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170554,
+   "description": "Seeds, chia seeds, dried"
+  }
+ },
+ {
+  "id": "sesame-seeds",
+  "name": "Sesame seeds",
+  "category": "nut-seed",
+  "state": "dry",
+  "kcal100g": 573.0,
+  "protein100g": 17.73,
+  "carbs100g": 23.45,
+  "fat100g": 49.67,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170150,
+   "description": "Seeds, sesame seeds, whole, dried"
+  }
+ },
+ {
+  "id": "coconut-milk-canned",
+  "name": "Coconut milk, canned",
+  "category": "nut-seed",
+  "state": "canned",
+  "kcal100g": 197.0,
+  "protein100g": 2.02,
+  "carbs100g": 2.81,
+  "fat100g": 21.33,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170173,
+   "description": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)"
+  }
+ },
+ {
+  "id": "olive-oil",
+  "name": "Olive oil",
+  "category": "fat-oil",
+  "state": null,
+  "kcal100g": 884.0,
+  "protein100g": 0.0,
+  "carbs100g": 0.0,
+  "fat100g": 100.0,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171413,
+   "description": "Oil, olive, salad or cooking"
+  }
+ },
+ {
+  "id": "canola-oil",
+  "name": "Canola oil",
+  "category": "fat-oil",
+  "state": null,
+  "kcal100g": 884.0,
+  "protein100g": 0.0,
+  "carbs100g": 0.0,
+  "fat100g": 100.0,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 172336,
+   "description": "Oil, canola"
+  }
+ },
+ {
+  "id": "coconut-oil",
+  "name": "Coconut oil",
+  "category": "fat-oil",
+  "state": null,
+  "kcal100g": 892.0,
+  "protein100g": 0.0,
+  "carbs100g": 0.0,
+  "fat100g": 99.06,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171412,
+   "description": "Oil, coconut"
+  }
+ },
+ {
+  "id": "sesame-oil",
+  "name": "Sesame oil",
+  "category": "fat-oil",
+  "state": null,
+  "kcal100g": 884.0,
+  "protein100g": 0.0,
+  "carbs100g": 0.0,
+  "fat100g": 100.0,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171016,
+   "description": "Oil, sesame, salad or cooking"
+  }
+ },
+ {
+  "id": "mayonnaise",
+  "name": "Mayonnaise",
+  "category": "fat-oil",
+  "state": null,
+  "kcal100g": 680.0,
+  "protein100g": 0.96,
+  "carbs100g": 0.57,
+  "fat100g": 74.85,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171009,
+   "description": "Salad dressing, mayonnaise, regular"
+  }
+ },
+ {
+  "id": "sugar-white",
+  "name": "Sugar, granulated",
+  "category": "sweetener",
+  "state": null,
+  "kcal100g": 387.0,
+  "protein100g": 0.0,
+  "carbs100g": 99.98,
+  "fat100g": 0.0,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169655,
+   "description": "Sugars, granulated"
+  }
+ },
+ {
+  "id": "sugar-brown",
+  "name": "Sugar, brown",
+  "category": "sweetener",
+  "state": null,
+  "kcal100g": 380.0,
+  "protein100g": 0.12,
+  "carbs100g": 98.09,
+  "fat100g": 0.0,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168833,
+   "description": "Sugars, brown"
+  }
+ },
+ {
+  "id": "honey",
+  "name": "Honey",
+  "category": "sweetener",
+  "state": null,
+  "kcal100g": 304.0,
+  "protein100g": 0.3,
+  "carbs100g": 82.4,
+  "fat100g": 0.0,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169640,
+   "description": "Honey"
+  }
+ },
+ {
+  "id": "maple-syrup",
+  "name": "Maple syrup",
+  "category": "sweetener",
+  "state": null,
+  "kcal100g": 260.0,
+  "protein100g": 0.04,
+  "carbs100g": 67.04,
+  "fat100g": 0.06,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169661,
+   "description": "Syrups, maple"
+  }
+ },
+ {
+  "id": "flour-all-purpose",
+  "name": "All-purpose flour",
+  "category": "baking",
+  "state": null,
+  "kcal100g": 364.0,
+  "protein100g": 10.33,
+  "carbs100g": 76.31,
+  "fat100g": 0.98,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168894,
+   "description": "Wheat flour, white, all-purpose, enriched, bleached"
+  }
+ },
+ {
+  "id": "cornstarch",
+  "name": "Cornstarch",
+  "category": "baking",
+  "state": null,
+  "kcal100g": 381.0,
+  "protein100g": 0.26,
+  "carbs100g": 91.27,
+  "fat100g": 0.05,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169698,
+   "description": "Cornstarch"
+  }
+ },
+ {
+  "id": "cocoa-powder",
+  "name": "Cocoa powder, unsweetened",
+  "category": "baking",
+  "state": null,
+  "kcal100g": 228.0,
+  "protein100g": 19.6,
+  "carbs100g": 57.9,
+  "fat100g": 13.7,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169593,
+   "description": "Cocoa, dry powder, unsweetened"
+  }
+ },
+ {
+  "id": "dark-chocolate",
+  "name": "Dark chocolate 70–85%",
+  "category": "baking",
+  "state": null,
+  "kcal100g": 598.0,
+  "protein100g": 7.79,
+  "carbs100g": 45.9,
+  "fat100g": 42.63,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170273,
+   "description": "Chocolate, dark, 70-85% cacao solids"
+  }
+ },
+ {
+  "id": "baking-powder",
+  "name": "Baking powder",
+  "category": "baking",
+  "state": null,
+  "kcal100g": 53.0,
+  "protein100g": 0.0,
+  "carbs100g": 27.7,
+  "fat100g": 0.0,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 172803,
+   "description": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  }
+ },
+ {
+  "id": "baking-soda",
+  "name": "Baking soda",
+  "category": "baking",
+  "state": null,
+  "kcal100g": 0.0,
+  "protein100g": 0.0,
+  "carbs100g": 0.0,
+  "fat100g": 0.0,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 175040,
+   "description": "Leavening agents, baking soda"
+  }
+ },
+ {
+  "id": "vanilla-extract",
+  "name": "Vanilla extract",
+  "category": "baking",
+  "state": null,
+  "kcal100g": 288.0,
+  "protein100g": 0.06,
+  "carbs100g": 12.65,
+  "fat100g": 0.06,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173471,
+   "description": "Vanilla extract"
+  }
+ },
+ {
+  "id": "yeast-dry",
+  "name": "Active dry yeast",
+  "category": "baking",
+  "state": null,
+  "kcal100g": 325.0,
+  "protein100g": 40.44,
+  "carbs100g": 41.22,
+  "fat100g": 7.61,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 175043,
+   "description": "Leavening agents, yeast, baker's, active dry"
+  }
+ },
+ {
+  "id": "soy-sauce",
+  "name": "Soy sauce",
+  "category": "condiment",
+  "state": null,
+  "kcal100g": 53.0,
+  "protein100g": 8.14,
+  "carbs100g": 4.93,
+  "fat100g": 0.57,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 174277,
+   "description": "Soy sauce made from soy and wheat (shoyu)"
+  }
+ },
+ {
+  "id": "vinegar-balsamic",
+  "name": "Balsamic vinegar",
+  "category": "condiment",
+  "state": null,
+  "kcal100g": 88.0,
+  "protein100g": 0.49,
+  "carbs100g": 17.03,
+  "fat100g": 0.0,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 172241,
+   "description": "Vinegar, balsamic"
+  }
+ },
+ {
+  "id": "mustard-yellow",
+  "name": "Yellow mustard",
+  "category": "condiment",
+  "state": null,
+  "kcal100g": 60.0,
+  "protein100g": 3.74,
+  "carbs100g": 5.83,
+  "fat100g": 3.34,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 172234,
+   "description": "Mustard, prepared, yellow"
+  }
+ },
+ {
+  "id": "ketchup",
+  "name": "Ketchup",
+  "category": "condiment",
+  "state": null,
+  "kcal100g": 101.0,
+  "protein100g": 1.04,
+  "carbs100g": 27.4,
+  "fat100g": 0.1,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 168556,
+   "description": "Catsup"
+  }
+ },
+ {
+  "id": "salsa",
+  "name": "Salsa",
+  "category": "condiment",
+  "state": null,
+  "kcal100g": 29.0,
+  "protein100g": 1.52,
+  "carbs100g": 6.64,
+  "fat100g": 0.17,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 174524,
+   "description": "Sauce, salsa, ready-to-serve"
+  }
+ },
+ {
+  "id": "pesto",
+  "name": "Pesto, refrigerated",
+  "category": "condiment",
+  "state": null,
+  "kcal100g": 418.0,
+  "protein100g": 9.83,
+  "carbs100g": 10.09,
+  "fat100g": 37.6,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171579,
+   "description": "Sauce, pesto, ready-to-serve, refrigerated"
+  }
+ },
+ {
+  "id": "chicken-broth",
+  "name": "Chicken broth",
+  "category": "condiment",
+  "state": null,
+  "kcal100g": 6.0,
+  "protein100g": 0.64,
+  "carbs100g": 0.44,
+  "fat100g": 0.21,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 174536,
+   "description": "Soup, chicken broth, ready-to-serve"
+  }
+ },
+ {
+  "id": "vegetable-broth",
+  "name": "Vegetable broth",
+  "category": "condiment",
+  "state": null,
+  "kcal100g": 5.0,
+  "protein100g": 0.24,
+  "carbs100g": 0.93,
+  "fat100g": 0.07,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171583,
+   "description": "Soup, vegetable broth, ready to serve"
+  }
+ },
+ {
+  "id": "capers",
+  "name": "Capers",
+  "category": "condiment",
+  "state": "canned",
+  "kcal100g": 23.0,
+  "protein100g": 2.36,
+  "carbs100g": 4.89,
+  "fat100g": 0.86,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 172238,
+   "description": "Capers, canned"
+  }
+ },
+ {
+  "id": "salt",
+  "name": "Salt",
+  "category": "spice",
+  "state": null,
+  "kcal100g": 0.0,
+  "protein100g": 0.0,
+  "carbs100g": 0.0,
+  "fat100g": 0.0,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173468,
+   "description": "Salt, table"
+  }
+ },
+ {
+  "id": "black-pepper",
+  "name": "Black pepper",
+  "category": "spice",
+  "state": null,
+  "kcal100g": 251.0,
+  "protein100g": 10.39,
+  "carbs100g": 63.95,
+  "fat100g": 3.26,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170931,
+   "description": "Spices, pepper, black"
+  }
+ },
+ {
+  "id": "cumin",
+  "name": "Cumin",
+  "category": "spice",
+  "state": null,
+  "kcal100g": 375.0,
+  "protein100g": 17.81,
+  "carbs100g": 44.24,
+  "fat100g": 22.27,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170923,
+   "description": "Spices, cumin seed"
+  }
+ },
+ {
+  "id": "paprika",
+  "name": "Paprika",
+  "category": "spice",
+  "state": null,
+  "kcal100g": 282.0,
+  "protein100g": 14.14,
+  "carbs100g": 53.99,
+  "fat100g": 12.89,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171329,
+   "description": "Spices, paprika"
+  }
+ },
+ {
+  "id": "chili-powder",
+  "name": "Chili powder",
+  "category": "spice",
+  "state": null,
+  "kcal100g": 282.0,
+  "protein100g": 13.46,
+  "carbs100g": 49.7,
+  "fat100g": 14.28,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171319,
+   "description": "Spices, chili powder"
+  }
+ },
+ {
+  "id": "cinnamon",
+  "name": "Cinnamon, ground",
+  "category": "spice",
+  "state": null,
+  "kcal100g": 247.0,
+  "protein100g": 3.99,
+  "carbs100g": 80.59,
+  "fat100g": 1.24,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171320,
+   "description": "Spices, cinnamon, ground"
+  }
+ },
+ {
+  "id": "oregano-dried",
+  "name": "Oregano, dried",
+  "category": "spice",
+  "state": null,
+  "kcal100g": 265.0,
+  "protein100g": 9.0,
+  "carbs100g": 68.92,
+  "fat100g": 4.28,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 171328,
+   "description": "Spices, oregano, dried"
+  }
+ },
+ {
+  "id": "turmeric",
+  "name": "Turmeric, ground",
+  "category": "spice",
+  "state": null,
+  "kcal100g": 312.0,
+  "protein100g": 9.68,
+  "carbs100g": 67.14,
+  "fat100g": 3.25,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 172231,
+   "description": "Spices, turmeric, ground"
+  }
+ },
+ {
+  "id": "curry-powder",
+  "name": "Curry powder",
+  "category": "spice",
+  "state": null,
+  "kcal100g": 325.0,
+  "protein100g": 14.29,
+  "carbs100g": 55.83,
+  "fat100g": 14.01,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170924,
+   "description": "Spices, curry powder"
+  }
+ },
+ {
+  "id": "basil-fresh",
+  "name": "Basil, fresh",
+  "category": "herb",
+  "state": "raw",
+  "kcal100g": 23.0,
+  "protein100g": 3.15,
+  "carbs100g": 2.65,
+  "fat100g": 0.64,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 172232,
+   "description": "Basil, fresh"
+  }
+ },
+ {
+  "id": "parsley-fresh",
+  "name": "Parsley, fresh",
+  "category": "herb",
+  "state": "raw",
+  "kcal100g": 36.0,
+  "protein100g": 2.97,
+  "carbs100g": 6.33,
+  "fat100g": 0.79,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 170416,
+   "description": "Parsley, fresh"
+  }
+ },
+ {
+  "id": "cilantro-fresh",
+  "name": "Cilantro, fresh",
+  "category": "herb",
+  "state": "raw",
+  "kcal100g": 23.0,
+  "protein100g": 2.13,
+  "carbs100g": 3.67,
+  "fat100g": 0.52,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 169997,
+   "description": "Coriander (cilantro) leaves, raw"
+  }
+ },
+ {
+  "id": "almond-milk",
+  "name": "Almond milk, unsweetened",
+  "category": "drink",
+  "state": null,
+  "kcal100g": 15.0,
+  "protein100g": 0.4,
+  "carbs100g": 1.31,
+  "fat100g": 0.96,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 174832,
+   "description": "Beverages, almond milk, unsweetened, shelf stable"
+  }
+ },
+ {
+  "id": "soy-milk",
+  "name": "Soy milk, unsweetened",
+  "category": "drink",
+  "state": null,
+  "kcal100g": 33.0,
+  "protein100g": 2.86,
+  "carbs100g": 1.74,
+  "fat100g": 1.61,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 175215,
+   "description": "Soymilk (all flavors), unsweetened, with added calcium, vitamins A and D"
+  }
+ },
+ {
+  "id": "water",
+  "name": "Water",
+  "category": "drink",
+  "state": null,
+  "kcal100g": 0.0,
+  "protein100g": 0.0,
+  "carbs100g": 0.0,
+  "fat100g": 0.0,
+  "gramsPerUnit": null,
+  "unitName": null,
+  "source": {
+   "dataset": "USDA FoodData Central SR Legacy (2018-04)",
+   "fdcId": 173647,
+   "description": "Beverages, water, tap, drinking"
+  }
+ }
+]

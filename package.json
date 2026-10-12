@@ -1,0 +1,40 @@
+{
+  "name": "recipe-notebook-chatgpt",
+  "version": "1.0.0",
+  "description": "Recipe Notebook: an MCP server + notebook panel for ChatGPT to save recipes, scale them by grams or servings, substitute ingredients and recalculate macros.",
+  "scripts": {
+    "dev": "npm run build:panel && tsx watch src/server/index.ts",
+    "start": "node build/server/index.js",
+    "build": "npm run build:panel && npm run build:server",
+    "build:panel": "vite build",
+    "build:server": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.test.json && tsc -p tsconfig.panel.json",
+    "check": "npm run typecheck && npm test && npm run build",
+    "test": "tsx --test tests/*.test.ts"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4",
+    "vite-plugin-singlefile": "^2.3.3"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/ext-apps": "^1.7.5",
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "@openai/mcp-extensions": "^0.1.0",
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "zod": "^4.4.3"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  },
+  "private": true,
+  "engines": {
+    "node": ">=22.13"
+  }
+}
